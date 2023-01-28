@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_array_includes",
+  "info": {
+    "displayName": "Includes"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

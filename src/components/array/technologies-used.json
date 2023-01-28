@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_array_technologies_useds",
+  "info": {
+    "displayName": "Technologies_used"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
